@@ -19,3 +19,7 @@ Push to main branch → pipeline runs automatically
 cd terraform
 terraform init
 terraform apply
+<<<<<<< HEAD
+=======
+
+>>>>>>> e7764c4d75dba869386cb1448a66c16967657b99
